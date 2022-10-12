@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012488038750",
+    "project_id": "ecommerce-7b045",
+    "storage_bucket": "ecommerce-7b045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012488038750:android:291dc64df8dc78e261c7cf",
+        "android_client_info": {
+          "package_name": "com.yahya.ecommerce_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012488038750-plrr3tlgsst8o8jo338jvd90fjrlm81e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yahya.ecommerce_1",
+            "certificate_hash": "e75fd4c230ca2f3829e82d760ed898b2369a7784"
+          }
+        },
+        {
+          "client_id": "1012488038750-70vbha7fjc3np0cqjf7jn1tuf9jpjclh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrinBzoJ3rbXg1sdJNvyZ9Bw3iLefJ5Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012488038750-70vbha7fjc3np0cqjf7jn1tuf9jpjclh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
